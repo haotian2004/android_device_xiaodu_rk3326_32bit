@@ -1,0 +1,2 @@
+# android_device_xiaodu_rk3326_32bit
+android_device_xiaodu_rk3326_32bit
